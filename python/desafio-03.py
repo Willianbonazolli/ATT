@@ -3,4 +3,4 @@ numero2 = int(input("Digite outro numero = "))
 
 soma = numero1 + numero2
 
-print("Esse é sua soma:", soma)
+print("A soma entre {} e {} vale: {}".format(numero1, numero2, soma))
