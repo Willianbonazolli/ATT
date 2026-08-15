@@ -32,60 +32,60 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="atividade01.c">
+		<Unit filename="src/atividade01.c">
 			<Option compilerVar="CC" />
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
-		<Unit filename="atividade02.c">
+		<Unit filename="src/atividade02.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="atividade03.c">
-			<Option compilerVar="CC" />
-			<Option compile="0" />
-			<Option link="0" />
-		</Unit>
-		<Unit filename="atividade04.c">
+		<Unit filename="src/atividade03.c">
 			<Option compilerVar="CC" />
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
-		<Unit filename="atividade05.c">
+		<Unit filename="src/atividade04.c">
 			<Option compilerVar="CC" />
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
-		<Unit filename="atividade06.c">
+		<Unit filename="src/atividade05.c">
 			<Option compilerVar="CC" />
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
-		<Unit filename="atividade07.c">
+		<Unit filename="src/atividade06.c">
 			<Option compilerVar="CC" />
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
-		<Unit filename="atividade08.c">
+		<Unit filename="src/atividade07.c">
 			<Option compilerVar="CC" />
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
-		<Unit filename="atividade09.c">
+		<Unit filename="src/atividade08.c">
 			<Option compilerVar="CC" />
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
-		<Unit filename="atividade10.c">
+		<Unit filename="src/atividade09.c">
 			<Option compilerVar="CC" />
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
-		<Unit filename="atividade11.c">
+		<Unit filename="src/atividade10.c">
 			<Option compilerVar="CC" />
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
-		<Unit filename="atividade12.c">
+		<Unit filename="src/atividade11.c">
+			<Option compilerVar="CC" />
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="src/atividade12.c">
 			<Option compilerVar="CC" />
 			<Option compile="0" />
 			<Option link="0" />
