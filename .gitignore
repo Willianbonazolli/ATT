@@ -1,2 +1,4 @@
 # Saídas geradas pela tarefa de compilação do VS Code
 C/atividades_c/build/
+
+*.class
