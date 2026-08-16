@@ -7,7 +7,7 @@
             "args": [
                 "-NoProfile",
                 "-Command",
-                "New-Item -ItemType Directory -Force -Path '${workspaceFolder}\\atividades_c\\build\\bin', '${workspaceFolder}\\atividades_c\\build\\obj', '${workspaceFolder}\\atividades_c\\build\\debug' | Out-Null"
+                "New-Item -ItemType Directory -Force -Path '${workspaceFolder}\\C\\atividades_c\\build\\bin', '${workspaceFolder}\\C\\atividades_c\\build\\obj', '${workspaceFolder}\\C\\atividades_c\\build\\debug' | Out-Null"
             ],
             "problemMatcher": []
         },
@@ -18,16 +18,16 @@
             "args": [
                 "/Zi",
                 "/nologo",
-                "/Fo${workspaceFolder}\\atividades_c\\build\\obj\\${fileBasenameNoExtension}.obj",
-                "/Fd${workspaceFolder}\\atividades_c\\build\\debug\\${fileBasenameNoExtension}.compile.pdb",
-                "/Fe${workspaceFolder}\\atividades_c\\build\\bin\\${fileBasenameNoExtension}.exe",
+                "/Fo${workspaceFolder}\\C\\atividades_c\\build\\obj\\${fileBasenameNoExtension}.obj",
+                "/Fd${workspaceFolder}\\C\\atividades_c\\build\\debug\\${fileBasenameNoExtension}.compile.pdb",
+                "/Fe${workspaceFolder}\\C\\atividades_c\\build\\bin\\${fileBasenameNoExtension}.exe",
                 "${file}",
                 "/link",
-                "/PDB:${workspaceFolder}\\atividades_c\\build\\debug\\${fileBasenameNoExtension}.pdb",
-                "/ILK:${workspaceFolder}\\atividades_c\\build\\debug\\${fileBasenameNoExtension}.ilk"
+                "/PDB:${workspaceFolder}\\C\\atividades_c\\build\\debug\\${fileBasenameNoExtension}.pdb",
+                "/ILK:${workspaceFolder}\\C\\atividades_c\\build\\debug\\${fileBasenameNoExtension}.ilk"
             ],
             "options": {
-                "cwd": "${workspaceFolder}\\atividades_c\\build"
+                "cwd": "${workspaceFolder}\\C\\atividades_c\\build"
             },
             "dependsOn": "Preparar pastas de compilação C",
             "dependsOrder": "sequence",

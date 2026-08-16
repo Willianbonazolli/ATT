@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1743445502 source:c:\users\bob_t\onedrive\imagens\att\atividades\atividades_c\main.cpp
+	<iostream>
+
+1773676725 source:c:\users\bob_t\onedrive\imagens\att\atividades\atividades_c\atividade02.c
+	<stdio.h>
+	<stdlib.h>
+
+1773676689 source:c:\users\bob_t\onedrive\imagens\att\atividades\atividades_c\atividade01.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1773677627 source:c:\users\bob_t\onedrive\imagens\att\atividades\atividades_c\atividade03.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1773679643 source:c:\users\bob_t\onedrive\imagens\att\atividades\atividades_c\atividade06.c
+	<stdio.h>
+	<stdlib.h>
+
+1773679988 source:c:\users\bob_t\onedrive\imagens\att\atividades\atividades_c\atividade07.c
+	<stdio.h>
+	<stdlib.h>
+
+1773680161 source:c:\users\bob_t\onedrive\imagens\att\atividades\atividades_c\atividade08.c
+	<stdio.h>
+	<stdlib.h>
+
+1773680636 source:c:\users\bob_t\onedrive\imagens\att\atividades\atividades_c\atividade09.c
+	<stdio.h>
+	<stdlib.h>
+
+1773680792 source:c:\users\bob_t\onedrive\imagens\att\atividades\atividades_c\atividade10.c
+	<stdio.h>
+	<stdlib.h>
+
